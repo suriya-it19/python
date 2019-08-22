@@ -1,0 +1,5 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+download.videvo.net	0	1	1566469499	63072000
+www.youtube.com	0	0	1566456248	31536000
